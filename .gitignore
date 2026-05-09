@@ -1,0 +1,20 @@
+# Python backend
+__pycache__/
+*.py[cod]
+.env
+venv/
+.venv
+
+# IDE settings
+.vscode/
+.idea/
+
+# Local development
+instance/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# System files
+.DS_Store
+Thumbs.db
